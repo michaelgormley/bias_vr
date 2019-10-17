@@ -7,12 +7,6 @@ We have had problems with putting in a 3D video onto unity, so we would like som
 
 Once the user puts on the headset and enters the coffee shop, there is a window that pops up. The window has a description of the project. **We have this written out, we just need to put it on the document** After the user reads whatever is in the window, there is a button on the bottom that says "OK". When they click on this button, the window goes away, and the user is in the room. 
 
-<<<<<<< HEAD
-An example of the picture is on the repo
-
-
-=======
->>>>>>> e65924c8621d8be6b8af046fc9e6d8e14f8642f2
 ## 2. Button that activates the video
 
 In the coffee shop room there needs to be a button near to the user that has a play symbol on it. Floating above the button is text that says "click me" with an arrow pointing to the button. When the user clicks on the button, it will redirect them to the video. However, before the video is played, a window, similar to the one above, is shown. The window will have this content: 
@@ -22,6 +16,8 @@ In the coffee shop room there needs to be a button near to the user that has a p
 There are two buttons on the screen in which the user may point their controller at, and press any button to select. One button is a "Cancel" in which the video will not play, the window will close, and the user will see the coffee shop. If the user clicks "Continue", the screen will fade to black, and the 3D video will begin to play. 
 
 This task also requires importing the video into unity. The video was shot on a 3D RICOH THETA camera, and the user should be able to look around, in VR at what is happening in the video. 
+
+Picture is on github
 
 ## 3. Emergency Exit Button
 
