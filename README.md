@@ -1,5 +1,7 @@
 # bias_vr
 
+## !!! Add sample video to sample unity project
+We have had problems with putting in a 3D video onto unity, so we would like some guidance as to how to do that.
 
 ## 1. Sign to pop up 
 
